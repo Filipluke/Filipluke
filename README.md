@@ -2,7 +2,7 @@
 
 🎓 MSc student at **Warsaw University of Technology (WUT)**  
 🔬 Focus: dynamic systems, EV battery modeling, simulation & embedded systems  
-🐍 Python | ⚡ DynPy | 🔌 Raspberry Pi | 🛠 DevOps
+🐍 Python |🔌 Raspberry Pi | 🛠 DevOps
 
 ---
 
