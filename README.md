@@ -72,7 +72,7 @@ I enjoy building things that are both **technically correct and practically usef
 
 ## 📫 Contact
 
-- 💼 LinkedIn: **(wklej link)**
+- 💼 LinkedIn: (https://www.linkedin.com/in/filipzelaznicki/)
 - 🌍 GitHub: https://github.com/Filipluke
 - 📍 Warsaw, Poland
 
