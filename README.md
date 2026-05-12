@@ -49,8 +49,9 @@ VLAN, routing, NAT, VPN & service configuration.
 
 ---
 
-### 🗂 Automation Tools
-Python & shell tools for deduplication, sorting and backups.  
+### 🗂 Photo Organization Tool
+Python program for organizing photo collections through deduplication, sorting and backups.  
+- Designed to keep large photo archives structured and easier to browse  
 ➡️ *Python, CLI, automation*
 
 ---
@@ -76,6 +77,7 @@ Python & shell tools for deduplication, sorting and backups.
 - 🔋 Advanced battery degradation models (non-linear, temperature-dependent)  
 - 📊 Multi-cycle simulations with result comparison & GUI visualization  
 - 🧪 Experimental validation using Raspberry Pi + sensors  
+- 🖼 Developing a Python program for organizing and maintaining photo collections  
 
 ---
 
